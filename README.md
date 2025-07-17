@@ -1,6 +1,8 @@
 ### :wave:About Me
 Hello! I'm Alex, currently a BSc. Computer Science student @ UBC.
 
+![](https://komarev.com/ghpvc/?username=codrAlex)
+
 ### Languages :computer:	
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
