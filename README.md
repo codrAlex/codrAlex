@@ -1,7 +1,7 @@
 ### :wave:About Me
 Hello! I'm Alex, currently a BSc. Computer Science, with Specialization in Artificial Intelligence student @ UBC.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jake%20Gaunt-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/alexandar-lackovic-2916a0341) ![](https://komarev.com/ghpvc/?username=codrAlex)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alex%20Lackovic-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/alexandar-lackovic-2916a0341) ![](https://komarev.com/ghpvc/?username=codrAlex)
 
 ### Languages :computer:	
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
